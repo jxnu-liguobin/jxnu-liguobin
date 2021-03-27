@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--
-**jxnu-liguobin/jxnu-liguobin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**jxnu-liguobin/jxnu-liguobin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 <h3 align="center">Hi there 👋 ! I'm 梦境迷离</h3>
 <p align="center">
-  <a href="https://dreamylost.cn">Website</a> •
+  <a href="https://dreamylost.cn">Website</a>
 </p>
 
 <p align="center"> 
