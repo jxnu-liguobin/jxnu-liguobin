@@ -7,7 +7,7 @@
 - [graphql-java-codegen](https://github.com/kobylynskyi/graphql-java-codegen) Too many, mainly lists the functions.
   - [Support HOCON config and list of config file](https://github.com/kobylynskyi/graphql-java-codegen/pull/608)
   - [Support generate normal public class for Kotlin and Scala](https://github.com/kobylynskyi/graphql-java-codegen/pull/547)
-  - [Support generate `${Enum}TypeRefer` for scala enum ](https://github.com/kobylynskyi/graphql-java-codegen/pull/483)
+  - [Support generate `${Enum}TypeRefer` for Scala enum ](https://github.com/kobylynskyi/graphql-java-codegen/pull/483)
   - [Support scalar for Kotlin and Scala](https://github.com/kobylynskyi/graphql-java-codegen/pull/475)
   - [Support msg for deprecated directive](https://github.com/kobylynskyi/graphql-java-codegen/pull/471)
   - [Support Kotlin language](https://github.com/kobylynskyi/graphql-java-codegen/pull/426)
