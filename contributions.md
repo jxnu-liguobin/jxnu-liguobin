@@ -44,7 +44,7 @@
   * [Benchmark hashes API](https://github.com/zio/zio-redis/pull/299)
   * [Add connection api to test executor](https://github.com/zio/zio-redis/pull/294)
 * [scala](https://github.com/scala/scala)
-  * [IncompatibleClassChangeError on getDeclaringClass #7994](https://github.com/scala/scala/pull/9553)
+  * [IncompatibleClassChangeError on getDeclaringClass](https://github.com/scala/scala/pull/9553)
 
 ## Refactor
 
