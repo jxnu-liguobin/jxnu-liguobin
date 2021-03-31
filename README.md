@@ -7,7 +7,7 @@
 
 <p align="center"> 
     
-![Github Stats](https://github-readme-stats.vercel.app/api?username=jxnu-liguobin&show_icons=true) <img src="https://dreamylost.cn/favicon.ico" alt="梦境迷离">
+![Github Stats](https://github-readme-stats.vercel.app/api?username=jxnu-liguobin&show_icons=true) 
 
 <a title="Hits" target="_blank" href="https://github.com/jxnu-liguobin/jxnu-liguobin"><img src="https://hits.b3log.org/jxnu-liguobin/jxnu-liguobin.svg"></a>
 
