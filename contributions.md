@@ -18,6 +18,7 @@
 - [zio-redis](https://github.com/zio/zio-redis)
   - [Add the FULL option to XINFO STREAM command](https://github.com/zio/zio-redis/pull/323)
   - [Add support for the XINFO command](https://github.com/zio/zio-redis/pull/301)
+  - [Add LT and GT options for ZADD command](https://github.com/zio/zio-redis/pull/333)
 
 - [cynic](https://github.com/obmarg/cynic)
   - [Suggestions for mis-named fields](https://github.com/obmarg/cynic/pull/196)
