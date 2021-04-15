@@ -35,6 +35,7 @@
   * [REPL: improve tab-completion of :-prefixed commands](https://github.com/scala/scala/pull/9521)
   * [REPL: Indicate deprecated methods when displaying signatures](https://github.com/scala/scala/pull/9476)
   * [REPL: when tab-completing, don't show a method as deprecated unless all overloads are deprecated](https://github.com/scala/scala/pull/9510)
+  * [-Ymacro-annotations, deprecated case class, lazy val with the same name of case class does not compile](https://github.com/scala/scala/pull/9555)
 * [cynic](https://github.com/obmarg/cynic)
   * [QueryFragments don't force field selection](https://github.com/obmarg/cynic/pull/212)
 
