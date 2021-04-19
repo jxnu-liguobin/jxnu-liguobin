@@ -4,7 +4,7 @@
 
 ## Add features or enhancements
 
-- [graphql-java-codegen](https://github.com/kobylynskyi/graphql-java-codegen) Too many, mainly lists the functions.
+- [Collaborator graphql-java-codegen](https://github.com/kobylynskyi/graphql-java-codegen) Too many, mainly lists the functions. 
   - [Support HOCON config and list of config file](https://github.com/kobylynskyi/graphql-java-codegen/pull/608)
   - [Support generate normal public class for Kotlin and Scala](https://github.com/kobylynskyi/graphql-java-codegen/pull/547)
   - [Support generate `${Enum}TypeRefer` for Scala enum ](https://github.com/kobylynskyi/graphql-java-codegen/pull/483)
@@ -14,12 +14,14 @@
   - [Support Scala language](https://github.com/kobylynskyi/graphql-java-codegen/pull/402)
   - [Support sbt plugin](https://github.com/kobylynskyi/graphql-java-codegen/pull/235)
   - [Add `all$` method on projection](https://github.com/kobylynskyi/graphql-java-codegen/pull/302)
+  - And so on.
 
-- [zio-redis](https://github.com/zio/zio-redis)
+- [Collaborator zio-redis](https://github.com/zio/zio-redis)
   - [Add the FULL option to XINFO STREAM command](https://github.com/zio/zio-redis/pull/323)
   - [Add support for the XINFO command](https://github.com/zio/zio-redis/pull/301)
   - [Add LT and GT options for ZADD command](https://github.com/zio/zio-redis/pull/333)
   - [Support GETEX and GETDEL](https://github.com/zio/zio-redis/pull/340)
+  - And so on.
 
 - [cynic](https://github.com/obmarg/cynic)
   - [Suggestions for mis-named fields](https://github.com/obmarg/cynic/pull/196)
