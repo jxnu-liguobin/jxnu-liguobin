@@ -4,7 +4,7 @@
 
 ## Add features or enhancements
 
-- [Collaborator graphql-java-codegen](https://github.com/kobylynskyi/graphql-java-codegen) Too many, mainly lists the functions. 
+- Collaborator [graphql-java-codegen](https://github.com/kobylynskyi/graphql-java-codegen) Too many, mainly lists the functions. 
   - [Support HOCON config and list of config file](https://github.com/kobylynskyi/graphql-java-codegen/pull/608)
   - [Support generate normal public class for Kotlin and Scala](https://github.com/kobylynskyi/graphql-java-codegen/pull/547)
   - [Support generate `${Enum}TypeRefer` for Scala enum ](https://github.com/kobylynskyi/graphql-java-codegen/pull/483)
@@ -16,7 +16,7 @@
   - [Add `all$` method on projection](https://github.com/kobylynskyi/graphql-java-codegen/pull/302)
   - And so on.
 
-- [Collaborator zio-redis](https://github.com/zio/zio-redis)
+- Collaborator [zio-redis](https://github.com/zio/zio-redis)
   - [Add the FULL option to XINFO STREAM command](https://github.com/zio/zio-redis/pull/323)
   - [Add support for the XINFO command](https://github.com/zio/zio-redis/pull/301)
   - [Add LT and GT options for ZADD command](https://github.com/zio/zio-redis/pull/333)
