@@ -26,7 +26,7 @@
 - [cynic](https://github.com/obmarg/cynic)
   - [Suggestions for mis-named fields](https://github.com/obmarg/cynic/pull/196)
   - [`graphql_type` parameter should be optional](https://github.com/obmarg/cynic/pull/213)
-  - [Empty types modules in querygen](https://github.com/obmarg/cynic/issues/71)
+  - [Empty types modules in querygen](https://github.com/obmarg/cynic/pull/202)
 
 - [scala](https://github.com/scala/scala)
   - [Array\[Double\](1) not optimized by compiler](https://github.com/scala/scala/pull/9544)
