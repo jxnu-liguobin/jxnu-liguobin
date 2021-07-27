@@ -1,7 +1,7 @@
 <h3 align="center">Hi there 👋 ! I'm 梦境迷离</h3>
 <p align="center">
   <a href="https://dreamylost.cn">Website</a> •
-  <a href="https://blog.csdn.net/qq_34446485">Website(backup)</a> •
+  <a href="https://blog.csdn.net/qq_34446485">Website(backup)</a>
 </p>
 
 <!-- My GitHub stats -->
