@@ -40,6 +40,7 @@
   - [Array\[Double\](1) not optimized by compiler](https://github.com/scala/scala/pull/9544)
   - ["LocalVariableTable" attribute generation inconsistency](https://github.com/scala/scala/pull/9561)
   - [JLine 3: handle .inputrc?](https://github.com/scala/scala/pull/9518)
+  - And so on.
 
 ## Fix issues
 
