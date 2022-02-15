@@ -2,6 +2,8 @@
 
 [All of my open source contributions](https://github.com/search?o=desc&q=author%3Ajxnu-liguobin+-user%3Ajxnu-liguobin+is%3Amerged&s=created&type=Issues). Below are some PRs which I categorize by a daily job of a software engineer.  
 
+> Does not contain PR that is not merged into the main branch
+
 ## My Projects
 
 - [zim](https://github.com/bitlap/zim) A functional-style, asynchronous and streaming IM based on scala, zio, tapir, akka-http, circe, scalikejdbc and redis.
