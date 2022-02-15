@@ -2,6 +2,12 @@
 
 [All of my open source contributions](https://github.com/search?o=desc&q=author%3Ajxnu-liguobin+-user%3Ajxnu-liguobin+is%3Amerged&s=created&type=Issues). Below are some PRs which I categorize by a daily job of a software engineer.  
 
+## My Projects
+
+- [zim](https://github.com/bitlap/zim) A functional-style, asynchronous and streaming IM based on scala, zio, tapir, akka-http, circe, scalikejdbc and redis.
+- [scala-macro-tools](https://github.com/bitlap/scala-macro-tools) Scala macro tools, includes the supported IntelliJ plugin.
+
+
 ## Add features or enhancements
 
 - Collaborator [graphql-java-codegen](https://github.com/kobylynskyi/graphql-java-codegen) Too many, mainly lists the functions. 
@@ -40,6 +46,7 @@
   * [REPL: Indicate deprecated methods when displaying signatures](https://github.com/scala/scala/pull/9476)
   * [REPL: when tab-completing, don't show a method as deprecated unless all overloads are deprecated](https://github.com/scala/scala/pull/9510)
   * [-Ymacro-annotations, deprecated case class, lazy val with the same name of case class does not compile](https://github.com/scala/scala/pull/9555)
+  * [Tab completion for aliased constructors in REPL](https://github.com/scala/scala/pull/9754)
 * [cynic](https://github.com/obmarg/cynic)
   * [QueryFragments don't force field selection](https://github.com/obmarg/cynic/pull/212)
 
