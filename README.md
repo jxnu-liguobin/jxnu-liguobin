@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jxnu-liguobin&label=Profile%20views&color=0e75b6&style=flat" alt="jxnu-liguobin" /> </p>
 
-- 🔭 I’m currently working on **Scala**
+- 🔭 I’m currently working with **Scala**
 
-- 🌱 I’m currently learning **Scala Compiler, zio and English**
+- 🌱 I’m currently learning **Scala Compiler, zio**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
