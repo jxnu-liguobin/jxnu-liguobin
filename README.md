@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working with **Scala**
 
-- 🌱 I’m currently learning **Scala Compiler, zio**
+- 🌱 I’m currently learning **[Scala Compiler](https://github.com/scala/scala), [zio](https://github.com/zio/zio), [bitlap](https://github.com/bitlap/bitlap)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
