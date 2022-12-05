@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jxnu-liguobin&label=Profile%20views&color=0e75b6&style=flat" alt="jxnu-liguobin" /> </p>
 
-- 🔭 I’m currently working with **Scala**
-
-- 🌱 I’m currently learning **[Scala Compiler](https://github.com/scala/scala), [zio](https://github.com/zio/zio), [bitlap](https://github.com/bitlap/bitlap)**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/dreamylostcn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dreamylostcn" height="30" width="40" /></a>
